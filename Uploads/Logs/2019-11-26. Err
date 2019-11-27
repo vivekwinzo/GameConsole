@@ -1,0 +1,7 @@
+26 Nov 2019 15:23:29,864 [4] ERROR ErrorLog - User.svc/User_Login: Could not find stored procedure 'GC_LOGIN'.::   at GameConsole.DBFunctions.senddataset_SP(String stored_proc, Hashtable parameters) in F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\DBFunctions.cs:line 279
+   at GameConsole.User.User_Login(User_LoginIN user_Login) in F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\User.svc.cs:line 77
+26 Nov 2019 16:34:14,508 [4] ERROR ErrorLog - User.svc/Signup: @IPADDRESS is not a parameter for procedure GC_REGISTRATION_PRC.::   at GameConsole.DBFunctions.senddataset_SP(String stored_proc, Hashtable parameters) in F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\DBFunctions.cs:line 279
+   at GameConsole.User.Signup(SignupIN signup) in F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\User.svc.cs:line 161
+26 Nov 2019 16:39:09,098 [20] ERROR ErrorLog - User.svc/User_Login: Column 'RSTATUS' does not belong to table Table.::   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at GameConsole.User.User_Login(User_LoginIN user_Login) in F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\User.svc.cs:line 81

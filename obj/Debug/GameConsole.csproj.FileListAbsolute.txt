@@ -1,0 +1,8 @@
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\bin\GameConsole.dll.config
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\bin\GameConsole.dll
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\bin\GameConsole.pdb
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\obj\Debug\GameConsole.csproj.CopyComplete
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\obj\Debug\GameConsole.dll
+F:\TicTok\Application\Service\GameConsole\GameConsole\GameConsole\GameConsole\obj\Debug\GameConsole.pdb
